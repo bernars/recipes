@@ -11,6 +11,9 @@ categories: lunch
 - Milk
 - almonds
 - cream
+- Garam Masala
+- Turmeric
+- Fresh ginger
 
 ## Tools
 - Knife
